@@ -1,0 +1,17 @@
+{
+  "name": "firebase-admin-typings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gie Spaepen <giespaepen@outlook.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "firebase-admin": "^5.13.0"
+  }
+}
